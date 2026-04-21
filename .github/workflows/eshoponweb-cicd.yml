@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 1fe078bc-62d2-4ec4-bab8-25d4a8cf0b1f
-  WEBAPP-NAME: eshoponweb-webapp-test
+  WEBAPP-NAME: eshoponweb-webapp-test-dah89fyu439fih
 
 jobs:
   #Build, test and publish .net web project in repository
